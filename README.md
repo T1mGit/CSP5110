@@ -1,2 +1,3 @@
 # CSP5110
-My own implemenation of the dice game Greed'
+My own implemenation of the dice game 'Greed' also known a 'Farkle' based on requirements in the assignment specification for this unit.
+To play, you must roll the dice, gaining points for each legal combination achieved from the dice roll. You remove at lease 1 legal combination reducing the die pool and then roll again. you repeat until you decide not to roll again or until no legal combinatins are achieved. If you roll and achieve no legal combinations you lose all accumulated points from that round. If you "Quit while your ahead" you add all the point scored in that round to your total game score.
