@@ -14,3 +14,8 @@ Version 2 is simply version 1 with the function calls replaced by the actual fun
 The Quizzle script has the admin.py and the quizzle.py file both of which are run independantly.<br>
 admin.py is a command line script which is used to create and manage the data file data.txt for the quiz.<br>
 quizzle.py uses the tkinter library to create a gui for displaying questions and recieving answers. quizzle.py reads the data.txt file (which is in JSON format) to obtain a selection of 5 quiz questions.
+<p><p>__________________________________________________________________________________________________________________________<p><p>
+<h4>Notice</h4>
+This code is provided as is and I make no guarantees or warrant any functionalty with respect to your usage of it.
+I write all my own code. The above implementation of Farkle and Quizzle is my own work.
+Like any programmer I use standard libaries distributed with python package for my system, and refer to the associated documentation.
