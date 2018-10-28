@@ -1,0 +1,97 @@
+[
+    {
+        "d": "5",
+        "q": "math what is the surface are of an octohedron side length 2?",
+        "a": [
+            "28"
+        ]
+    },
+    {
+        "d": "2",
+        "q": "math:what is the volume of a cone radius 3 height 2?",
+        "a": [
+            "18.8"
+        ]
+    },
+    {
+        "d": "2",
+        "q": "history:how many wives did henry 8th have?",
+        "a": [
+            "9",
+            "nine"
+        ]
+    },
+    {
+        "d": "2",
+        "q": "geography:what continent is egypt in?",
+        "a": [
+            "africa",
+            "north africa"
+        ]
+    },
+    {
+        "d": "1",
+        "q": "puzzle:this statement is false",
+        "a": [
+            "no solution",
+            "no answer",
+            "cant answer"
+        ]
+    },
+    {
+        "d": "5",
+        "q": "astronomy:what is a pulsar?",
+        "a": [
+            "a spinning neutron star ejecting gamma rays from its poles",
+            "spinning neutron star",
+            "neutron star"
+        ]
+    },
+    {
+        "d": "5",
+        "q": "astronomy:what is the event horizon?",
+        "a": [
+            "point where information cannot escape a gravitaional field"
+        ]
+    },
+    {
+        "d": "3",
+        "q": "what famous english battle occured in the year 1066",
+        "a": [
+            "hastings",
+            "battle of hastings"
+        ]
+    },
+    {
+        "d": "3",
+        "q": "what is the name of the famous scottish warrior who fought against the english?",
+        "a": [
+            "william wallace"
+        ]
+    },
+    {
+        "d": "2",
+        "q": "puzzle:how many squares can be traced on a 3x3 grid of squares?",
+        "a": [
+            "14",
+            "fourteen"
+        ]
+    },
+    {
+        "d": "1",
+        "q": "test:this is test question with no actual answer because i am trying to test whether the question will break onto multiple lines and if it does break on three or more lines then it is a success and the answer will be yes otherwise no.",
+        "a": [
+            "yes",
+            "maybe",
+            "no"
+        ]
+    },
+    {
+        "d": "4",
+        "q": "what is the diameter in astronomical units of earths orbit?",
+        "a": [
+            "2",
+            "two"
+        ]
+    }
+]
